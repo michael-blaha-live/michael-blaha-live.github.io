@@ -2,7 +2,7 @@
 
 **Senior Python Developer | Architect | DevOps Enthusiast**
 
-With over 8 years of experience as a lead Python developer, I specialize in designing and implementing high-performance, scalable applications. After a brief hiatus, I am eager to apply my skills in a new role and contribute to innovative projects.
+With over 9 years of experience as a Python developer, I specialize in designing and implementing high-performance, scalable applications. After a brief hiatus, I am eager to apply my skills in a new role and contribute to innovative projects.
 
 ---
 
@@ -15,3 +15,6 @@ With over 8 years of experience as a lead Python developer, I specialize in desi
 * **Orchestration:** Kubernetes (Fundamental knowledge, actively learning)
 * **Databases:** PostgreSQL, Redis
 * **CI/CD:** GitHub Actions
+
+**From time to time I like also do some simple CTF challenges :eyes:**
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=199876" style='border:none;'></iframe>
