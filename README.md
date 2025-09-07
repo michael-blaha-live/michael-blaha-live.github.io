@@ -18,4 +18,4 @@ With over 9 years of experience as a Python developer, I specialize in designing
 
 **From time to time I like also do some simple CTF challenges :eyes:**
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=199876" style="width: 280px; border: 0"></iframe>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=199876" style="width: 350px; border: 0"></iframe>
