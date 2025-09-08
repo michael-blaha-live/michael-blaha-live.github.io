@@ -1,6 +1,6 @@
 # About Me
 
-**Senior Python Developer | Architect | DevOps Enthusiast**
+**Senior Python Developer | Architect | DevOps & DevSec Enthusiast**
 
 With over 9 years of experience as a Python developer, I specialize in designing and implementing high-performance, scalable applications. After a brief hiatus, I am eager to apply my skills in a new role and contribute to innovative projects.
 
